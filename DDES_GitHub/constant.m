@@ -1,0 +1,12 @@
+const.k = 1.38e-23;         % Boltzmann constant, J/K
+const.eV = 1.602e-19;      % Electron volt, J
+const.eps0 = 8.854187817e-14;   % Electric constant, F/cm
+const.h = 6.62607004e-34;   %Planck constant J.s
+const.hbar = 1.05457e-34;   % h normalized by 2*pi
+const.me = 9.10938e-31;         % electon mass
+const.c = 2.99792458e+8;        % Speed of light in vacuum, m/s
+const.eps_r_silicon = 12;     % silicon epsilon_r
+const.eps_silicon = 1.21e-12; %const.eps0 * const.eps_r_silicon;     % silicon epsilon
+Diff_Coef = 8000;
+Ni = 1.4e16;
+% Ni = 1.0e10;
